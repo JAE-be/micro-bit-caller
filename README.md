@@ -1,2 +1,3 @@
 # micro-bit-caller
-Use this to call another micro bit
+Using this you can call other microbit devices
+This only works on the [Micro:Bit](https://www.amazon.com/KEYESTUDIO-Micro-Original-Microbit-Starter/dp/B0BP1J72RR/ref=sr_1_4?crid=2XIJOAPA49TQX&dib=eyJ2IjoiMSJ9.gqwiFFhVTNUbX2uVFsMMsO0xEBAbwEe0YHV77OMJsv1Lo7yVkCE2bYjzIWpGlDCVPTG2O1QBpmo4LIMH3eh74XTMkZU_NBZYIBhhY7tC-RZSR_v-jj3YpCe0o82kmPWav29CEMrw6a7syJFrU0K-xVoAnINiNWfF8ODOlS9XUJ3i3Tf42yoLv_dUAevr48s-HzGeoVjNbh3ebKrY_863NAhMmmyNE1gu4-WvJyzaEbA8VWbPWN6Sv6uuZWZSpjgdmAX0K_ohJPAN_vXMDmHjh2ysuv08o0ZYCqTmawOz3Jg.Ti5hffuV7yUgUoA3n4N-4yQDXgkuWfcubcyZLZLGyck&dib_tag=se&keywords=microbit&qid=1732234388&s=electronics&sprefix=microbit%2Celectronics%2C104&sr=1-4)
